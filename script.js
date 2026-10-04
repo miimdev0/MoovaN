@@ -10,10 +10,10 @@ const SVG = {
 
 // ===== لینک‌ها و آیکن‌ها را اینجا عوض کن =====
 const channels = [
-  { name: "کانال تلگرام",    svg: "telegram",  url: "https://t.me/moovantext" },
+  { name: "کانال تلگرام",    svg: "telegram",  url: "https://t.me/theMoovaN" },
   { name: "صفحه اینستاگرام", svg: "instagram", url: "https://instagram.com/moovantext" },
-  { name: "سروش پلاس",       icon: "img/splus.png",     url: "https://splus.ir/moovantext" },
-  { name: "روبیکا",          icon: "img/rubika.png",    url: "https://rubika.ir/moovantext" }
+  { name: "سروش پلاس",       icon: "img/splus.png",     url: "https://splus.ir/theMoovaN" },
+  { name: "روبیکا",          icon: "img/rubika.png",    url: "https://rubika.ir/theMoovaN" }
   // ,{ name: "ایتا", icon: "img/eitaa.png", url: "https://eitaa.com/moovantext" }
 ];
 
